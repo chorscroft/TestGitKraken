@@ -1,2 +1,3 @@
 bob1original
 bob1clone
+Now I'm bob2
